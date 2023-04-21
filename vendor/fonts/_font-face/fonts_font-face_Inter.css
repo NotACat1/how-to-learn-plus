@@ -1,0 +1,24 @@
+/* Подключение семейство шрифтов Inter */
+
+/* Обычное начертание */
+@font-face {
+  font-family: 'Inter';
+  src: url(./Inter-Regular.woff2) format('woff2'),
+       url(./Inter-Regular.woff) format('woff');
+}
+
+/* Полужирный */
+@font-face {
+  font-family: 'Inter';
+  src: url(./Inter-SemiBold.woff2) format('woff2'),
+       url(./Inter-SemiBold.woff) format('woff');
+  font-weight: 600;
+}
+
+/* Жирный */
+@font-face {
+  font-family: 'Inter';
+  src: url(./Inter-Bold.woff2) format('woff2'),
+       url(./Inter-Bold.woff) format('woff');
+  font-weight: bold;
+}

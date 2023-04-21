@@ -1,0 +1,13 @@
+.video__iframe {
+  width: 515px;
+  height: 316px;
+}
+
+.video__iframe:nth-child(2n+1) {
+  margin-left: auto;
+}
+
+.video__iframe:nth-child(2n) {
+  margin-left: 20px;
+  margin-right: auto;
+}
