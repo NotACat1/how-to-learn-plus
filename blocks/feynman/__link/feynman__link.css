@@ -1,4 +1,5 @@
 .feynman__link {
+  width: fit-content;
   position: absolute;
   top: 50%;
   right: 48px;
@@ -8,9 +9,6 @@
   text-decoration: none;
   transition: opacity .5s ease;
   opacity: 1;
-}
-
-.feynman__link:link {
   color: #2f80ed;
 }
 

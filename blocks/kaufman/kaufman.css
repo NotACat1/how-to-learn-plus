@@ -1,4 +1,5 @@
 .kaufman {
+  box-sizing: border-box;
   padding: 90px 0;
   color: #ffffff;
   background-color: #1f1f1f;

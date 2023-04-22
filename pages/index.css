@@ -1,3 +1,6 @@
+/* Сброс CSS свойств с пмомощью normalize.css */
+@import url('../vendor/normalize.css');
+
 /* Подключение шрифтов семейства Inter */
 @import url('../vendor/fonts/_font-face/fonts_font-face_Inter.css');
 
@@ -39,17 +42,17 @@
 
 /* video */
 @import url('../blocks/video/video.css');
-@import url('../blocks/section-title/section-title.css');
-@import url('../blocks/section-subtitle/section-subtitle.css');
+/*@import url('../blocks/section-title/section-title.css');*/
+/*@import url('../blocks/section-subtitle/section-subtitle.css');*/
 @import url('../blocks/video/__iframes/video__iframes.css');
 @import url('../blocks/video/__iframe/video__iframe.css');
 
 /* oakley */
 @import url('../blocks/oakley/oakley.css');
-@import url('../blocks/two-columns/two-columns.css');
-@import url('../blocks/two-columns/__brief/two-columns__brief.css');
-@import url('../blocks/two-columns/__main-text/two-columns__main-text.css');
-@import url('../blocks/two-columns/__paragraph/two-columns__paragraph.css');
+/*@import url('../blocks/two-columns/two-columns.css');*/
+/*@import url('../blocks/two-columns/__brief/two-columns__brief.css');*/
+/*@import url('../blocks/two-columns/__main-text/two-columns__main-text.css');*/
+/*@import url('../blocks/two-columns/__paragraph/two-columns__paragraph.css');*/
 
 /* feynman */
 @import url('../blocks/feynman/feynman.css');
@@ -59,8 +62,8 @@
 
 /* digits */
 @import url('../blocks/digits/digits.css');
-@import url('../blocks/section-title/section-title.css');
-@import url('../blocks/section-subtitle/section-subtitle.css');
+/*@import url('../blocks/section-title/section-title.css');*/
+/*@import url('../blocks/section-subtitle/section-subtitle.css');*/
 @import url('../blocks/table/table.css');
 @import url('../blocks/table/__cell/table__cell.css');
 @import url('../blocks/table/__heading/table__heading.css');
@@ -90,19 +93,21 @@
 
 /* resources */
 @import url('../blocks/resources/resources.css');
-@import url('../blocks/section-title/section-title.css');
-@import url('../blocks/section-subtitle/section-subtitle.css');
+/*@import url('../blocks/section-title/section-title.css');*/
+/*@import url('../blocks/section-subtitle/section-subtitle.css');*/
 @import url('../blocks/resources/__logo-zone/resources__logo-zone.css');
 @import url('../blocks/resources/__link/resources__link.css');
+@import url('../blocks/resources/__logo/resources__logo.css');
 /* content --> Close */
 
 /* footer */
 @import url('../blocks/footer/footer.css');
 @import url('../blocks/footer/__columns/footer__columns.css');
-@import url('../blocks/footer/__columns/_content/footer__column_content_copyright.css');
-@import url('../blocks/logo/logo.css');
+@import url('../blocks/footer/__column/_content/footer__column_content_copyright.css');
+/*@import url('../blocks/logo/logo.css');*/
 @import url('../blocks/logo/_place/logo_place_footer.css');
 @import url('../blocks/footer/__author/footer__author.css');
+@import url('../blocks/footer/__column/footer__column.css');
 @import url('../blocks/footer/__column/_content/footer__column_content_info.css');
 @import url('../blocks/footer/__column-heading/footer__column-heading.css');
 @import url('../blocks/footer/__column-links/footer__column-links.css');

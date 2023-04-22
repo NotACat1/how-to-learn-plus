@@ -1,6 +1,7 @@
 .cards__item {
   margin-right: 100px;
   width: 240px;
+  list-style-type: none;
 }
 
 .cards__item:nth-child(3n) {

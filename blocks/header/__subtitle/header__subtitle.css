@@ -3,7 +3,7 @@
   position: absolute;
   left: 64px;
   bottom: 30px;
-  width: 388px;
+  max-width: 388px;
   z-index: 3;
   line-height: 25px;
   font-size: 18px;
