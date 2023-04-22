@@ -1,4 +1,4 @@
-![Шапка сайта](./ReadmeFiles/Header.jpg)
+![Шапка сайта](https://ic.wampi.ru/2023/04/22/Header.jpg)
 
 # Научиться учиться
 
@@ -15,7 +15,7 @@ ____
 ### 1. Favicon
 **Favicon** — это иконка, которая отображается во вкладке браузера перед названием сайта.
 
-![Favicon](./ReadmeFiles/Favicon.jpg)
+![Favicon](https://ie.wampi.ru/2023/04/22/Favicon.jpg)
 
 ```html
 <link rel="apple-touch-icon" href="./images/favicon/apple-touch-icon.png">
@@ -27,7 +27,7 @@ ____
 ### 2. Open Graph
 **Open Graph** — это словарь семантической разметки данных. Он позволяет контролировать превью, которое формируется при публикации ссылки на сайт в социальных сетях, и передавать информацию другим интернет-сервисам.
 
-![Open Graph](./ReadmeFiles/OpenGraph.jpg)
+![Open Graph](https://ic.wampi.ru/2023/04/22/OpenGraph.jpg)
 
 ```html
 <meta property="og:type" content="website">
@@ -68,7 +68,7 @@ ____
 ### 4. Flexbox
 **Flexbox** — система адаптируемых блоков для создания быстрого создания сложных и гибких макетов WEB макетов.
 
-![Flexbox](./ReadmeFiles/Flexbox.jpg)
+![Flexbox](https://im.wampi.ru/2023/04/22/Flexbox.jpg)
 
 ### 5. Методология БЭМ
 БЭМ (Блок, Элемент, Модификатор) — компонентный подход к веб-разработке. В его основе лежит принцип разделения интерфейса на независимые блоки. Он позволяет легко и быстро разрабатывать интерфейсы любой сложности и повторно использовать существующий код, избегая «Copy-Paste».
@@ -105,7 +105,7 @@ ____
 - Имена директорий элементов начинаются с двойного подчеркивания (__).
 - Имена директорий модификаторов начинаются с одинарного подчеркивания (_).
 
-![Nested](./ReadmeFiles/Nested.jpg)
+![Nested](https://im.wampi.ru/2023/04/22/Nested.jpg)
 
 ### 7. Идентификатор
 **Идентификатор** (называемый также «ID селектор») определяет уникальное имя элемента, которое используется для изменения его стиля и обращения к нему через скрипты.
@@ -125,7 +125,7 @@ ____
 ### 8. Псевдоклассы
 **Псевдокласс** — это селектор, который выбирает элементы, находящиеся в специфическом состоянии, например, они являются первым элементом своего типа, или на них наведён указатель мыши.
 
-![Pseudo-classes](./ReadmeFiles/PseudoClasses.jpg)
+![Pseudo-classes](https://im.wampi.ru/2023/04/22/PseudoClasses.jpg)
 
 ```css
 /* Карточка */
@@ -172,12 +172,12 @@ ____
 ### 9. Позиционирование элементов
 **Позиционирование** позволяет вам изымать элементы из нормального потока макета документа и заставить их вести себя по-другому; например, располагаться друг на друге или всегда оставаться на одном и том же месте внутри окна просмотра браузера.
 
-![Nested](./ReadmeFiles/Position.jpg)
+![Position](https://ie.wampi.ru/2023/04/22/Position.jpg)
 
 ### 10. iframe (API YouTube)
 **IFrame** — это кадр внутри кадра. Это компонент HTML-элемента, который позволяет встраивать документы, видео и интерактивные медиафайлы на страницу.
 
-![IFrame](./ReadmeFiles/IFrame.jpg)
+![IFrame](https://ie.wampi.ru/2023/04/22/IFrame.jpg)
 
 ```html
 <iframe width="100%" height="100%" src="https://www.youtube.com/embed/arj7oStGLkU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
