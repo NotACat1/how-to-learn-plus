@@ -120,7 +120,7 @@ ____
 ```html
 <a class="header__link" href="#techniques">Узнать? ➔</a>
 ```
-![Identifier](./ReadmeFiles/Identifier.gif)
+![Identifier](https://s12.gifyu.com/images/Identifier.gif)
 
 ### 8. Псевдоклассы
 **Псевдокласс** — это селектор, который выбирает элементы, находящиеся в специфическом состоянии, например, они являются первым элементом своего типа, или на них наведён указатель мыши.
@@ -139,7 +139,7 @@ ____
   margin-right: 0; /* убрать отступ справа */
 }
 ```
-![Transformations](./ReadmeFiles/Transformations.gif)
+![Transformations](https://s11.gifyu.com/images/Transformations.gif)
 
 ```css
 .footer__column-link {
@@ -186,7 +186,7 @@ ____
 ### 11. Анимации
 **Анимации** — важная часть создания привлекательных веб-приложений и сайтов. Пользователи ожидают высокую отзывчивость и интерактивность.
 
-![Animations](./ReadmeFiles/Animations.gif)
+![Animations](https://s11.gifyu.com/images/Animations.gif)
 
 ```css
 /* Описание анимации */
@@ -218,7 +218,7 @@ ____
 ### 12. Трансформации 
 **Трансформации** определяют, каким станет тот или иной элемент.
 
-![Transformations](./ReadmeFiles/Transformations.gif)
+![Transformations](https://s11.gifyu.com/images/Transformations.gif)
 
 ```css
 .footer__column-link {
