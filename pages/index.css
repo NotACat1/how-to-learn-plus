@@ -4,9 +4,6 @@
 /* Подключение шрифтов семейства Inter */
 @import url('../vendor/fonts/_font-face/fonts_font-face_Inter.css');
 
-/* keyframes  */
-@import url('../blocks/rotation/rotation.css');
-
 /* page --> Open */
 @import url('../blocks/page/page.css');
 
@@ -20,6 +17,7 @@
 @import url('../blocks/header/__main-illustration/header__main-illustration.css');
 @import url('../blocks/header/__main-illustration-img/header__main-illustration-img.css');
 @import url('../blocks/header/__square-pic/header__square-pic.css');
+@import url('../blocks/rotation/rotation.css');
 
 /* content --> Open */
 /* description */
@@ -84,6 +82,7 @@
 /* kaufman */
 @import url('../blocks/kaufman/kaufman.css');
 @import url('../blocks/kaufman/__triangle/kaufman__triangle.css');
+/*@import url('../blocks/rotation/rotation.css');*/
 @import url('../blocks/section-title/_theme/section-title_theme_dark.css');
 @import url('../blocks/section-subtitle/_theme/section-subtitle_theme_dark.css');
 @import url('../blocks/table/_theme/table_theme_dark.css');
